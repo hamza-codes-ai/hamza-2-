@@ -1,0 +1,331 @@
+@media screen and (max-width:768px) {
+    .row1
+    {
+        padding: 20px 0;
+    }
+    .row1 p
+    {
+
+    text-align: center;
+    display: inline-block;
+    padding: 30px 0;
+    margin: 0px 1%;
+    }
+    .search
+    {
+        width: 65%;
+        display: inline-block;
+        text-align: center;
+    }
+    .row1 ul
+    {
+        text-align: center;
+        float: none;
+    }
+    .row2
+    {
+        text-align: center;
+    }
+    .row2 a img
+    {
+        text-align: center;
+        display: inline-block;
+    
+    }
+    .row2-col1
+    {
+        width: 99%;
+        display: inline-block;
+        text-align: center;
+    }
+    .row2-col1 ul
+    {
+        float: right;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+    }
+    .row3
+    {
+        text-align: center;
+        display: inline-block;
+    }
+    .box
+    {width: 47%;
+        text-align: center;
+        display: inline-block;
+        margin: 10px 1%;
+    }
+    .row5
+    {
+        text-align: center;
+        display: inline-block;
+    }
+    .foter-col
+    {
+        width: 99%;
+        display: inline-block;
+        text-align: center;
+    }
+    .foter-col a
+    {
+        text-align: center;
+        display: inline-block;
+        margin: 0;
+    }
+    .foter-row1
+    {
+        width: 98%;
+        display: inline-block;
+    }
+    .foter-row1 ul
+    {
+        width: 47%;
+        display: inline-block;
+
+    }
+    .foter-row1 input[type="submit"]
+    {
+        width: 40%;
+        display: inline-block;
+        float: right;
+    }
+    .head
+    {
+        width: 97%;
+        display: inline-block;
+        text-align: center;
+    }
+    .foter ol
+    {
+        width: 97%;
+        display: inline-block;
+        text-align: center;
+        margin: 20px 0;
+    }
+    .foter2
+    {
+        text-align: center;
+        display: inline-block;
+        
+    }
+    .foter2 p
+    {
+        width: 98%;
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .foter2 ul
+    {
+        width: 95%;
+        display: inline-block;
+        text-align: center;
+        margin: 0 6%
+    }
+    .foter2 ul li
+    {
+        padding: 15px 3%;
+        display: inline-block;
+        text-align: center;
+    }
+}
+@media screen and (max-width:640px){
+    .row1 p
+    {
+        width: 97%;
+        display: inline-block;
+        text-align: center;
+    }
+    .search
+    {
+        width: 97%;
+        display: inline-block;
+        text-align: center;
+    }
+    .row1 ul
+    {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .row2-col1
+    {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    }
+    .row2-col1 ul
+    {
+        width: 100%;
+        display: inline-block;
+    }
+    .row2-col1 ul:last-child li a
+    {
+        padding: 25px 16px;
+        display: inline-block;
+
+    }
+    .col
+    {
+        width: 75%;
+        display: inline-block;
+        text-align: center;
+    }
+    .col h1
+    {
+        font-size: 3em;
+
+    }
+    .col p
+    {
+        width: 96%;
+        display: inline-block;
+        text-align: center;
+    }
+    .col a
+    {
+        padding: 20px 8%;
+    }
+    .box
+    {
+        width: 43%;
+    margin: 20px 3%;
+    }
+    .foter-row1 ul
+    {
+        width: 41%;
+        display: inline-block;
+        
+        
+    }
+    .foter2 ul
+    {
+        width: 85%;
+        display: inline-block;
+        text-align: center;
+    }
+    .foter2 ul li
+    {
+        padding: 15px 4.4%;
+        display: inline-block;
+    }
+    .foter-row1 ul:first-child
+    {
+        margin-left: 3%;
+    }
+    .foter-row1 ul:last-child{
+        margin-left: 1%;
+    }
+    .foter-row1 textarea
+    {
+        width: 100%;
+        display: inline-block;
+    }
+    .foter-row1 div
+    {
+        width: 100%;
+        display: inline-block   ;
+    }
+    .foter-row1 input[type="submit"]
+    {
+        width: 50%;
+        display: inline-block;
+    }
+    
+    
+}
+@media screen and (max-width:480px){
+    .search
+    {
+        width: 95%;
+        display: inline-block;
+        text-align: center;
+    }
+    .search select
+    {
+        width: 16%;
+    }
+    .search input
+    {
+        width: 75%;
+        display: inline-block;
+    }
+    .row2-col1 ul:last-child
+    {
+        width: 99%;
+    }
+    .row2-col1 ul:last-child li a
+    {
+        padding: 17px 2px;
+    }
+    .box
+    {
+        width: 75%;
+        display: inline-block;
+        text-align: center;
+        margin-left: 11%;
+    }
+    .foter-row1 ul
+    {
+        width: 91%;
+    }
+    .foter-row1 ul:first-child
+    {
+        margin-left: 1%;
+    }
+    .foter-row1 input[type="submit"]
+    {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    }
+
+}
+@media screen and (max-width:360px){
+    .search
+    {
+        width: 95%;
+    }
+    .search select
+    {
+        width: 22%;
+
+    }
+    .search input
+    {
+    width: 68%;
+    }
+    .row2
+    {
+        text-align: center;
+    }
+    .row2-col1 ul,
+    .row2-col1 ul li
+    {
+        margin: 10px 0;
+        display: inline-block;
+        text-align: center;
+    }
+    .row2-col1 ul:last-child
+    {
+        width: 97%;
+        display: inline-block;
+        text-align: center;
+    }
+    .row2-col1 ul:last-child li a
+    {
+        padding: 11px 12px;
+    }
+    .foter-col a
+    {
+margin-bottom: 20px;    }
+    .foter2 ul
+    {
+        width: 92%;
+        text-align: center;
+        display: inline-block;
+    }
+}
+
+
+
